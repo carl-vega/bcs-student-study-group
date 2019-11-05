@@ -1,0 +1,20 @@
+{
+  "name": "bcs-student-study-group",
+  "version": "1.0.0",
+  "description": "An simple web app to give BCS students a visual of available study partners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carl-vega/bcs-student-study-group.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carl-vega/bcs-student-study-group/issues"
+  },
+  "homepage": "https://github.com/carl-vega/bcs-student-study-group#readme"
+}
